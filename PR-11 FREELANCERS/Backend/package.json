@@ -1,0 +1,28 @@
+{
+  "name": "freelancer-project-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.3",
+    "multer": "^1.4.5-lts.1",
+    "uninstall": "^0.0.0"
+  }
+}
